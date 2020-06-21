@@ -1,0 +1,10 @@
+C:\Users\Алишер\source\repos\TicTacToeApplication\TicTacToeApplication\bin\Debug\TicTacToeApplication.exe.config
+C:\Users\Алишер\source\repos\TicTacToeApplication\TicTacToeApplication\bin\Debug\TicTacToeApplication.exe
+C:\Users\Алишер\source\repos\TicTacToeApplication\TicTacToeApplication\bin\Debug\TicTacToeApplication.pdb
+C:\Users\Алишер\source\repos\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.csprojAssemblyReference.cache
+C:\Users\Алишер\source\repos\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.Properties.Resources.resources
+C:\Users\Алишер\source\repos\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.csproj.GenerateResource.cache
+C:\Users\Алишер\source\repos\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Алишер\source\repos\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.exe
+C:\Users\Алишер\source\repos\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.pdb
+C:\Users\Алишер\source\repos\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.TicTacToe.resources
